@@ -1,4 +1,4 @@
-# Connection scaling comparison between RDS Postgres and Aurora
+# Comparing Postgres vs Aurora for serverless
 
 ## Running the tests
 
